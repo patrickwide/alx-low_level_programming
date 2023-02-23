@@ -1,0 +1,20 @@
+- `print_numbers`: a function that prints the numbers 0 through 9, each followed by a newline character.
+
+- `print_most_numbers`: a function that prints the numbers 0 through 9, each followed by a newline character, except for 2 and 4.
+
+- `more_numbers`: a function that prints the numbers 0 through 14, ten times, each followed by a newline character.
+
+- `print_line`: a function that takes an integer argument and prints a horizontal line of that length using the '-' character, followed by a newline character.
+
+- `print_diagonal`: a function that takes an integer argument and prints a diagonal line of that length using the '\' character, followed by a newline character.
+
+- `print_square`: a function that takes an integer argument and prints a square of that size using the '#' character, followed by a newline character.
+
+- `fizzbuzz`: a program that prints the numbers from 1 to 100, each followed by a newline character. For multiples of three, it prints "Fizz" instead of the number. For multiples of five, it prints "Buzz". For numbers that are multiples of both three and five, it prints "FizzBuzz".
+
+- `print_triangle`: a function that takes an integer argument and prints a right-angled triangle using the '#' character, followed by a newline character.
+
+- `largest_prime_factor`: a program that finds and prints the largest prime factor of the number 612852475143, followed by a newline character.
+
+- `print_number`: a function that takes an integer argument and prints it, followed by a newline character.
+
