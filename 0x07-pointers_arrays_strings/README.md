@@ -1,11 +1,14 @@
-C - Even more pointers, arrays and strings
-  0. 0-memset.c -a function that fills memory with a constant byte.
-  1. 1-memcpy.c -a function that copies memory area.
-  2. 2-strchr.c -a function that locates a character in a string.
-  3. 3-strspn.c -a function that gets the length of a prefix substring.
-  4. 4-strpbrk.c -a function that searches a string for any of a set of bytes.
-  5. 5-strstr.c -a function that locates a substring.
-  6. 7-print_chessboard.c -a function that prints the chessboard.
-  7. 8-print_diagsums.c -a function that prints the sum of the two diagonals of a square matrix of integers.
-  8. 100-set_string.c -a function that sets the value of a pointer to a char.
-  9. 101-crackme_password -a file that contains the password for the crackme2 executable.
+## C - Even more pointers, arrays, and strings
+
+This is a list of C functions that deal with pointers, arrays, and strings:
+
+- `0-memset.c`: This function fills a block of memory with a given byte value.
+- `1-memcpy.c`: This function copies a block of memory from one location to another.
+- `2-strchr.c`: This function finds the first occurrence of a character in a string.
+- `3-strspn.c`: This function returns the length of the initial segment of a string that consists entirely of characters from another string.
+- `4-strpbrk.c`: This function finds the first occurrence in a string of any character from a set of characters.
+- `5-strstr.c`: This function finds the first occurrence of a substring in a string.
+- `7-print_chessboard.c`: This function prints a chessboard of a given size.
+- `8-print_diagsums.c`: This function prints the sum of the two diagonals of a square matrix of integers.
+- `100-set_string.c`: This function sets the value of a pointer to a char.
+- `101-crackme_password`: This is a file that contains the password for the `crackme2` executable.
